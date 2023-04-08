@@ -1,7 +1,5 @@
-### Hiiiiiii 👋
-
+<img src="https://komarev.com/ghpvc/?username=maettis&label=Profile%20views&">
 <h2>I'm Maettis.</h2>
-<img src="https://komarev.com/ghpvc/?username=maettis&label=Profile%20views&"> since 08/04/23
 
 <h3> 💻 &nbsp;Über mich </h3>
 
