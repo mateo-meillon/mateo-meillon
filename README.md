@@ -4,7 +4,6 @@
 <h3> 💻 &nbsp;Über mich </h3>
 
 - &nbsp; Sehr motivierter Entwickler!
-- &nbsp; Schüler in Berlin!
 - &nbsp; Fullstack Developer!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
