@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,nuxtjs,vue,react,figma,java,appwrite,html,css,sass,stackoverflow,js,ts,discord,eclipse,firebase,supabase,git,github,githubactions,gitlab,idea,vscode,linux,md,nginx,postman,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,nuxtjs,vue,react,figma,java,stackoverflow,eclipse,firebase,supabase,github,githubactions,gitlab,idea,vscode,linux,md,nginx,raspberrypi,postman,appwrite,html,css,sass,js,ts,discord,git)](https://skillicons.dev)
